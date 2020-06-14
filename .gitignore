@@ -73,3 +73,7 @@ missing
 /src/backend/seq/pup/yaksuri_seqi_populate_pupfns*
 /src/backend/seq/pup/yaksuri_seqi_pup.h
 /src/backend/seq/pup/yaksuri_seqi_pup_*
+
+# python generated file
+maint/__py_cache__
+src/backend/__py_cache__
